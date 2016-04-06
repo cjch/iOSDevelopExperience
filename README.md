@@ -21,3 +21,21 @@ iOS开发中的一些实践
 - [TeamViewer](http://www.teamviewer.com/zhCN/)
 
 ##iOS
+
+###Xcode插件管理 [Alcatraz](https://github.com/alcatraz/Alcatraz)
+
+- VVDocumenter-Xcode
+
+- Auto-Importer
+
+- FuzzyAutocomplete
+
+- SCXcodeSwitchExpander
+
+- KSImageNamed
+
+- ATProperty 快速创建属性
+
+- ClangFormat
+
+- XAlign
